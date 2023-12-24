@@ -9,7 +9,7 @@ def main():
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=DEVELOPER_KEY)
 
-    video_id = "2OzpWVlt5Ok"
+    video_id = "4pLY1X46H1E"
     comment_file = "comments.txt"
 
     # Read existing comments and comment IDs
