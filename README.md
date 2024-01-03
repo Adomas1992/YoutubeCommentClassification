@@ -1,4 +1,4 @@
-Delving into Sentiment on YouTube: Fine-tuning DistilBERT for Binary Classification
+###  Delving into Sentiment on YouTube: Fine-tuning DistilBERT for Binary Classification
 This project explores the intriguing realm of sentiment analysis on YouTube comments. Our aim is to train a DistilBERT model on a curated dataset of labeled tweets from Hugging Face contributors, and then test its ability to discern positive and negative sentiments within the vibrant ecosystem of YouTube comments.
 
 By leveraging the efficiency and pre-trained knowledge of DistilBERT, we seek to tackle the challenge of limited labeled data, a common hurdle in sentiment analysis projects. Utilizing this smaller model allows us to train effectively with the available tweet dataset and potentially generalize this ability to the diverse and often informal language of YouTube comments.
